@@ -3,7 +3,7 @@ import Heading from "./Heading";
 function App() {
   return (
     <div className="App">
-      <Heading />
+     ß<Heading />
     </div>
   );
 }
